@@ -62,9 +62,13 @@ python task_1.py
 
 The Apache Spark segment of the project comprises several tasks, each with specific objectives:
 
-#### Task 1: Compute statistics on product ratings and counts.
+#### Task 1
 
-#### Task 2: Analyze sales rank and product categories.
+- **Description**: Compute statistics on product ratings and counts.
+
+#### Task 2
+
+- **Description**: Analyze sales rank and product categories.
 
 #### Task 3
 
