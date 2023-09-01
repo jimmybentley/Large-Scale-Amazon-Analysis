@@ -64,27 +64,27 @@ The Apache Spark segment of the project comprises several tasks, each with speci
 
 #### Task 1
 
-- **Description**: Compute statistics on product ratings and counts.
+- Compute statistics on product ratings and counts.
 
 #### Task 2
 
-- **Description**: Analyze sales rank and product categories.
+- Analyze sales rank and product categories.
 
 #### Task 3
 
-- **Description**: Compute statistics on related products' prices and counts.
+- Compute statistics on related products' prices and counts.
 
 #### Task 4
 
-- **Description**: Impute missing values in the 'price' column and handle unknown titles.
+- Impute missing values in the 'price' column and handle unknown titles.
 
 #### Task 5
 
-- **Description**: Create word embeddings for product titles.
+- Create word embeddings for product titles.
 
 #### Task 6
 
-- **Description**: Encode and reduce dimensionality of product categories.
+- Encode and reduce dimensionality of product categories.
 
 ### Results
 
@@ -147,27 +147,27 @@ The Dask segment of the project consists of several tasks aimed at processing an
 
 #### Task 1
 
-- **Description**: Compute statistics on product ratings and counts.
+- Compute statistics on product ratings and counts.
 
 #### Task 2
 
-- **Description**: Analyze sales rank and product categories.
+- Analyze sales rank and product categories.
 
 #### Task 3
 
-- **Description**: Compute statistics on related products' prices and counts.
+- Compute statistics on related products' prices and counts.
 
 #### Task 4
 
-- **Description**: Impute missing values in the 'price' column and handle unknown titles.
+- Impute missing values in the 'price' column and handle unknown titles.
 
 #### Task 5
 
-- **Description**: Check for matching keys between two DataFrames.
+- Check for matching keys between two DataFrames.
 
 #### Task 6
 
-- **Description**: Check for matching keys within DataFrame columns.
+- Check for matching keys within DataFrame columns.
 
 ### Results
 
