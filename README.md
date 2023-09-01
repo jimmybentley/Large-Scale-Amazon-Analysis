@@ -23,11 +23,11 @@ This project combines two distinct parts: one utilizing Apache Spark for data an
 
 ## Apache Spark
 
-### Overview(Apache Spark)
+### Overview (Apache Spark)
 
 The Apache Spark portion of this project is centered around analyzing and processing data using the Apache Spark framework. It encompasses a series of tasks, each addressing specific data analysis and transformation objectives.
 
-### Prerequisites
+### Prerequisites (Apache Spark)
 
 Before executing the Apache Spark tasks, ensure you have the following prerequisites installed:
 
@@ -36,7 +36,7 @@ Before executing the Apache Spark tasks, ensure you have the following prerequis
 - Python 3.x
 - Other necessary Python libraries (refer to the 'utilities.py' file for specific libraries)
 
-### Usage
+### Usage (Apache Spark)
 
 1. Clone the repository:
 
@@ -58,7 +58,7 @@ python task_1.py
 
 4. Follow the same pattern to run the other tasks.
 
-### Task Details
+### Task Details (Apache Spark)
 
 The Apache Spark segment of the project comprises several tasks, each with specific objectives:
 
@@ -86,11 +86,11 @@ The Apache Spark segment of the project comprises several tasks, each with speci
 
 - Encode and reduce dimensionality of product categories.
 
-### Results
+### Results (Apache Spark)
 
 The results of each task are saved and can be accessed through the 'data_io' object. Each task provides specific results as outlined in the task descriptions.
 
-### Acknowledgments
+### Acknowledgments (Apache Spark)
 
 - [Apache Spark](https://spark.apache.org/) - For the distributed data processing framework.
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) - For the Python API for Apache Spark.
@@ -100,11 +100,11 @@ The results of each task are saved and can be accessed through the 'data_io' obj
 
 ## Dask
 
-### Overview
+### Overview (Dask)
 
 The Dask segment of the project involves using Dask on AWS EC2 to process and analyze data. It includes tasks that compute statistics, analyze data, and handle missing values using Dask on a remote AWS EC2 instance.
 
-### Prerequisites
+### Prerequisites (Dask)
 
 Before running the Dask tasks, ensure you have the following prerequisites installed and configured:
 
@@ -113,7 +113,7 @@ Before running the Dask tasks, ensure you have the following prerequisites insta
 - Python 3.x
 - AWS EC2 instance configured with Dask (Follow AWS documentation for setup)
 
-### Usage
+### Usage (Dask)
 
 1. Clone the repository:
 
@@ -141,7 +141,7 @@ runtime = PA1(user_reviews_csv, products_csv)
 print(f"Total runtime: {runtime} seconds")
 ```
 
-### Task Details
+### Task Details (Dask)
 
 The Dask segment of the project consists of several tasks aimed at processing and analyzing data. Here are the details of each task:
 
@@ -169,11 +169,11 @@ The Dask segment of the project consists of several tasks aimed at processing an
 
 - Check for matching keys within DataFrame columns.
 
-### Results
+### Results (Dask)
 
 The results of each task are saved to a 'results_PA1.json' file. This JSON file contains the computed values for each task. You can access and analyze the results by reading the JSON file.
 
-### Acknowledgments
+### Acknowledgments (Dask)
 
 - [Dask](https://dask.org/) - For the distributed computing framework.
 - [Amazon Web Services (AWS)](https://aws.amazon.com/) - For providing cloud infrastructure for running Dask on EC2 instances.
