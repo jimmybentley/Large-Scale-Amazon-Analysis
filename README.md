@@ -23,7 +23,7 @@ This project combines two distinct parts: one utilizing Apache Spark for data an
 
 ## Apache Spark
 
-### Overview (Apache Spark)
+### Overview(Apache Spark)
 
 The Apache Spark portion of this project is centered around analyzing and processing data using the Apache Spark framework. It encompasses a series of tasks, each addressing specific data analysis and transformation objectives.
 
