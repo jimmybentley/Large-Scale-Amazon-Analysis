@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project combines two distinct parts: one utilizing Apache Spark for data analysis and transformation, and the other using Dask on AWS EC2 for distributed computing. Below is a detailed guide for both sections of the project.
+This project combines two distinct parts: one utilizing Apache Spark and the other using Dask on AWS EC2, both for distributed computing and data analysis/transformation. Below is a detailed guide for both sections of the project.
 
 ## Table of Contents
 
